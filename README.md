@@ -53,5 +53,5 @@ The dashboard provides the following insights:
 
 **Algin Farrell**
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/algin-farrell-16681432b)  
 - Email: alginfarrell82@gmail.com
